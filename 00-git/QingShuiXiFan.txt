@@ -1,0 +1,3 @@
+hello, CS506
+
+finished exercise 3
